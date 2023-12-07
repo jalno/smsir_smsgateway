@@ -1,0 +1,8 @@
+{
+	"rtl": false,
+	"phrases":{
+		"sms.gateway.smsir" : "SMS.IR",
+		"settings.sms.gateways.smsir.apikey": "API Key",
+		"settings.smsir_smsgateway" : "SMS.IR Gateway Settings"
+	}
+}

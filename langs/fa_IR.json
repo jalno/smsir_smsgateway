@@ -1,0 +1,8 @@
+{
+	"rtl": true,
+	"phrases":{
+		"sms.gateway.smsir" : "SMS.IR",
+		"settings.sms.gateways.smsir.apikey": "کلید خصوصی",
+		"settings.smsir_smsgateway" : "تنظیمات پنل SMS.IR"
+	}
+}
